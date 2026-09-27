@@ -39,6 +39,7 @@ The goal of this repository is to make relevant foundation models easier to disc
 
 | Resource | Description | Organization | Modality / Input | Access |
 |---|---|---|---|---|
+| [DINOv2](https://github.com/facebookresearch/dinov2) | Self-supervised vision foundation model that learns transferable visual representations without requiring labeled pretraining data. | Meta AI / FAIR | Natural imagery / visual representations | Open source / research |
 | [DINOv3 Satellite ViT-7B](https://huggingface.co/facebook/dinov3-vit7b16-pretrain-sat493m) | Large vision transformer pretrained on satellite imagery for transferable visual representations and downstream remote sensing tasks. | Meta | Satellite imagery | Open / research |
 
 ---
