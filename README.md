@@ -1,6 +1,6 @@
-# Foundation Models
+# Geospatial Foundation Models
 
-A curated collection of foundation models for GeoAI, Earth observation, remote sensing, and geospatial applications.
+A curated collection of geospatial foundation models for GeoAI, Earth observation, remote sensing, and related spatial applications.
 
 The goal of this repository is to make relevant foundation models easier to discover and compare across different research and application areas.
 
