@@ -6,6 +6,7 @@ The goal of this repository is to make relevant foundation models easier to disc
 
 ## Categories
 
+- [Geospatial Foundation Model Toolkits](#geospatial-foundation-model-toolkits)
 - [Earth Observation Foundation Models](#earth-observation-foundation-models)
 - [Multimodal and Multisensor Models](#multimodal-and-multisensor-models)
 - [Vision Foundation Models for GeoAI](#vision-foundation-models-for-geoai)
@@ -13,6 +14,12 @@ The goal of this repository is to make relevant foundation models easier to disc
 - [Benchmarks and Evaluation](#benchmarks-and-evaluation)
 
 ---
+
+## Geospatial Foundation Model Toolkits
+
+| Resource | Description | Organization | Focus | Access |
+|---|---|---|---|---|
+| [TerraTorch](https://github.com/torchgeo/terratorch) | PyTorch-based toolkit for fine-tuning, training, and applying geospatial foundation models across Earth observation tasks. | TorchGeo | GFM fine-tuning / training / inference | Open source |
 
 ## Earth Observation Foundation Models
 
